@@ -1,0 +1,6 @@
+id: 13rnl3y3m57ykvfbp75xm6y59ifn1mtjtnjn37awab5w07l7
+name: hello
+license: MIT
+description: hello
+root_dependencies:
+  - src: git https://codeberg.org/dude_the_builder/zigstr.git

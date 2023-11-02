@@ -1,0 +1,6 @@
+MIT:
+= https://spdx.org/licenses/MIT
+- This
+
+Unspecified:
+- git https://codeberg.org/dude_the_builder/zigstr.git
